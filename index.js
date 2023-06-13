@@ -3,7 +3,7 @@
 const num1=2;
 const num2=31;
 
-const multiply=Number(num1)*Number(num2);
+const multiply=(num1)*(num2);
 console.log(multiply)
 
 
