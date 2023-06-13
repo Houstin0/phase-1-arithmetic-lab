@@ -9,7 +9,7 @@ console.log(multiply)
 
 const random = parseInt(Math.random(2, 1000)*100)
 console.log(random)
-const num3=28
+const num3=22
 const num4=6
 const mod = num3 % num4
 
